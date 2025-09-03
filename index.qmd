@@ -1,0 +1,24 @@
+::: {style="text-align:center;"}
+<img src="images/profile.jpg" alt="My photo" width="200" style="border-radius:50%;"/>
+:::
+
+---
+title: Srishti Dipak Gojamgunde
+---
+
+Has [information overload](https://en.wikipedia.org/wiki/Information_overload){target="_blank"} rendered you anxious and immobilized too? Thankfully, the absurd woman[^1] knows that '*Creating is living doubly.[^2]*' 
+
+Creation transforms paralysis into movement. To create is to choose curiosity over consumption, to build rather than merely absorb. That is why I strive to examine, explore, enlarge, and enrich this ephemeral island on which I have just landed; my mission cannot be constrained to only one modern academic discipline. My thoughts—and consequently, my research—moves through psychology, culture, policy, literature, and the social sciences. Through learning and expression, I live freely. 
+
+[Read more about me here!](about.qmd)
+
+Check out some of my recent work:
+
+-   **Latest in Research:** [Altered Minds in Digital Spaces](Research/Altered-Minds-in-Digital-Spaces.qmd)
+-   **Latest in Writing:** [A Prose Poem](Writing/Prose.qmd)
+
+Note: All writing is my own and not assisted by LLMs or AI.
+
+[^1]: <span style="color:#666; font-size:0.9em;"> Absurd (wo)man: One who accepts the absurd, i.e. the contradiction between the human desire for transcendent meaning, and the meaninglessness of the universe.
+[^2]: <span style="color:#666; font-size:0.9em;"> From Albert Camus' *The Myth of Sisyphus* (Absurd Creation p. 90—99).
+

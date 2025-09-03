@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+Hi, I'm Srishti Dipak Gojamgunde. I am, above all, a perpetual learner. My passion lies at the intersection of data, human behavior, and storytelling—exploring questions like: *How do media and technology shape our beliefs, behaviors, and mental states? And how do these individual experiences, in turn, shape the norms, policies, and technologies that define our societies?*, *How can rigorous methodological approaches drive scientific progress and innovation?*, And most importantly, *how do we determine what is truly good for society?*
+
+My research interests span **education** and related **social-cognitive outcomes**; **human–technology interactions**, particularly within **modern digital environments and culture**; and **knowledge and information systems**, including the influence of **literary works**.
+
+I employ a combination of experimental design and computational methods to uncover the stories behind data and convey insights in a compelling narrative. My work emphasizes careful methodological choice—selecting the right test, model, or tool for the question at hand rather than applying techniques by rote.
+
+Broadly, my projects often involve:
+
+- **Model Selection & Statistical/Causal Inference**: Careful attention to data structure and assumptions when selecting models—for example, employing fixed or mixed effects for panel and longitudinal data, applying robust standard errors to address heteroskedasticity, or using interaction terms where theory suggests effect modification. These choices ensure valid inference and appropriate causal interpretation.
+
+::: my-4
+:::
+
+- **Applied Methods Across Domains**: Frequent use of regression modeling with categorical and quantitative predictors, quasi-experimental methods (e.g., instrumental variables, regression discontinuity), NLP techniques for analyzing unstructured text (e.g., LDA topic modeling), and applied machine learning approaches such as tree-based methods.
+
+::: my-4
+:::
+
+- **Bias Correction & Robustness**: Careful application of weighting, matching, and propensity score techniques to reduce selection bias; use of bootstrapping to obtain reliable distributional inference where analytic solutions are limited; and regularization methods (e.g., Lasso, ridge) in computational models to prevent overfitting and enhance generalizability.

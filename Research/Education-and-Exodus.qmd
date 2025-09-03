@@ -1,0 +1,84 @@
+---
+title: "Education and Exodus"
+format: html
+---
+
+### *Understanding the Unique Features of Displacement Risk in East Palo Alto*
+
+*Originally a group project by Keyu (Kea) Bao, Mina Mohebbi, Srishti Gojamgunde, and Wenjia (Jessica) Ma for COMPSS 224A: 'Forced Out: Decoding Housing Displacement through Data' at UC Berkeley. Submitted on March 5, 2025.*
+
+*The version presented here has been substantially revised and edited by me for inclusion on my website.*
+
+## Abstract
+
+## Background and Introduction
+
+## Data Sources and EDA
+
+## Methods
+
+### Data Processing 
+
+### Correlation Analysis
+
+...
+
+## Results
+
+## Discussion
+
+## References
+
+## Code Appendix
+
+For readability, the code appendix below includes only the analysis and visualization steps.  
+The data retrieval and cleaning/wrangling steps are not shown here.  
+```{r}
+#| echo: true
+#| code-fold: true
+#| code-summary: "Show the R code"
+#| message: false
+#| warning: false
+
+# --Data import and cleaning--
+# Enrollment and financial data downloaded from the California Dept. of Education website for years 2018-2022
+# Enrollment tables merged; totals aggregated by school and year; filtered to Ravenswood district schools; NAs handled
+# Financial data aggregated by year. 
+#
+# ACS tables pulled using tidycensus, and filtered for tracts which are in the Ravenswood School District 
+# Code omitted for brevity
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(purrr)
+
+enrollment_data <- read_csv('enrollment_data.csv', show_col_types = FALSE)
+
+financial_data <- read_csv('financial_data.csv', show_col_types = FALSE)
+
+# Function to read ACS tables and assign as separate objects
+read_acs_tables <- function(path = ".") {
+  acs_names <- c("acs_geomobility", "acs_renterten", "acs_fammedinc", 
+                 "acs_famwkid", "acs_homemedval", "acs_ownerten")
+  
+  # build file paths
+  files <- file.path(path, paste0(acs_names, ".csv"))
+  
+  # read all files into a list
+  tables <- map(files, read_csv)
+  names(tables) <- acs_names
+  
+  # assign each element of the list into the global environment
+  list2env(tables, envir = .GlobalEnv)
+}
+
+#Run once to load them
+read_acs_tables(".")
+
+
+
+```
+
+

@@ -1,0 +1,116 @@
+---
+title: "Curriculum Vitae"
+---
+
+### Education
+
+------------------------------------------------------------------------
+
+##### **University of California, Berkeley** [2024-2025]{style="float:right;"}
+
+##### Master of Computational Social Science — GPA: 3.7
+
+**Coursework:** Data, Ethics, and Society; Data Visualization; Advanced Applied Statistics
+
+::: my-4
+:::
+
+##### **University of British Columbia, Vancouver** [2020-2024]{style="float:right;"}
+
+##### B.A. in Psychology, Minor in Commerce (with Distinction)
+
+**Leadership:** Executive Coordinator of the Psi Chi Honors Society - UBC Chapter\
+**Awards:** Work Learn International Undergraduate Research Award (2022), Trek Excellence Scholarship for Continuing Students (2021), Outstanding International Student Award (2020)
+
+::: my-4
+:::
+
+### Experience
+
+------------------------------------------------------------------------
+
+##### **UC Berkeley Office of the Registrar** [Berkeley, CA]{style="float:right;"}
+
+##### Business Systems Analyst Intern [January 2025 — May 2025]{style="float:right;"}
+
+-   Developed custom utilization metrics to quantify inefficiencies in UC Berkeley’s final exam scheduling across six semesters of data.
+-   Flagged 36 persistently underused rooms and departments with \>30% enrollment mismatches relative to a greedy algorithm benchmark.
+-   Presented findings with targeted scheduling recommendations that could improve room utilization by 47.6% to administrative leads, influencing policies and resource allocation.
+
+::: my-4
+:::
+
+##### **Brain and Reality Lab** *(PI: Dr. Alan Kingstone)* [Vancouver, BC]{style="float:right;"}
+
+##### Undergraduate Researcher [September 2021 — April 2023]{style="float:right;"}
+
+-   Co-authored peer-reviewed research on how attractiveness and mind perception influence comfort in human–robot interactions, highlighting the role of human-likeness in robots and digital/AI agents.
+-   Led an independent project investigating how reduced mind perception of self and others predicts feelings of depersonalization/derealization in youth, particularly in digital environments.
+-   Designed research methods and experimental stimuli, with specialization in 3D modeling for VR experiments, eye-tracking, and survey design.
+-   Applied statistical methods, including correlations and t-tests, to analyze survey data and test key hypotheses.
+-   Directed over 1,000 participants through experiments, overseeing data collection and entry while ensuring strict adherence to experimental controls and research integrity.
+
+::: my-4
+:::
+
+##### **Center for Applied Moral Psychology** *(PI: Dr. Azim Shariff)* [Vancouver, BC]{style="float:right;"}
+
+##### Research Assistant [September 2021 — December 2021]{style="float:right;"}
+
+-   Directed discussion groups of participants, maintaining confidentiality and ethical standards for conversations on sensitive topics.
+-   Managed data entry and coding of responses to result in clean, processed data ready for analysis.
+
+::: my-4
+:::
+
+### Publications
+
+------------------------------------------------------------------------
+
+::: hanging-indent
+Pazhoohi, F., Gojamgunde, S., & Kingstone, A. (2023). Give me space: Sex, attractiveness, and mind perception as potential contributors to different comfort distances for humans and robots. *Journal of Environmental Psychology, 90*, 102088. <https://doi.org/10.1016/j.jenvp.2023.102088>
+:::
+
+::: my-4
+:::
+
+### Service
+
+------------------------------------------------------------------------
+
+##### **BOLT Safety Society** [Vancouver, BC]{style="float:right;"}
+
+##### Volunteer [October 2022 — December 2023]{style="float:right;"}
+
+-   Assisted in coordinating and served as official videographer at the Safe Hubs program launch at MP Bonita Zarrillo’s office, establishing a new community-based safe space for survivors of domestic violence.
+-   Dedicated 20+ hours to outreach through information booths, raising awareness of BOLT’s Safe Hubs network and digital resources for survivors of abuse.
+
+::: my-4
+:::
+
+##### **Alpha Gamma Delta Foundation: Fighting Hunger** [Delta Zeta Chapter, UBC]{style="float:right;"}
+
+##### Member [September 2022 — December 2023]{style="float:right;"}
+-   Organized and participated in fundraising events, including the annual “Alpha Gam Slam” volleyball tournament and the chapter’s Day of Giving, raising funds to combat food insecurity through the Alpha Gamma Delta Foundation.
+-   Volunteered at food donation booths, collecting non-perishable items for the Greater Vancouver Food Bank, supporting local efforts to fight hunger.
+
+::: my-4
+:::
+
+##### **Euphoria Psychology Fest** [Navi Mumbai, India]{style="float:right;"}
+
+##### Co-Chair/Charge D'Affaires  [December 2019]{style="float:right;"}
+- Created a city-wide psychology festival to promote mental health awareness, overseeing event design, programming, and outreach for 100+ attendees from 30+ academic institutions.
+
+
+
+
+
+
+
+
+
+
+
+
+

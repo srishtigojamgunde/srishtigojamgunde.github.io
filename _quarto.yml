@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: .
+
+book:
+  title: "Srishti Gojamgunde"
+  chapters:
+    - index.qmd
+    - part: "Research"
+      chapters:
+        - Research/Education-and-Exodus.qmd
+        - Research/Altered-Minds-in-Digital-Spaces.qmd
+        - Research/Nostalgia.qmd
+    - part: "Writing"
+      chapters: 
+        - Writing/Prose.qmd
+    - about.qmd
+    - cv.qmd
+
+format:
+  html:
+    number-sections: false
+    code-copy: true
+    embed-resources: false
+    
+website:
+  search: true
