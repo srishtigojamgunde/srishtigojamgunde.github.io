@@ -262,37 +262,6 @@
     ]
   },
   {
-    "objectID": "Writing/Prose.html",
-    "href": "Writing/Prose.html",
-    "title": "A Prose Poem",
-    "section": "",
-    "text": "Work in Progress",
-    "crumbs": [
-      "Writing",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>A Prose Poem</span>"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi, I’m Srishti Dipak Gojamgunde. I am, above all, a perpetual learner. My passion lies at the intersection of data, human behavior, and storytelling—exploring questions like: How do media and technology shape our beliefs, behaviors, and mental states? And how do these individual experiences, in turn, shape the norms, policies, and technologies that define our societies?, How can rigorous methodological approaches drive scientific progress and innovation?, And most importantly, how do we determine what is truly good for society?\nMy research interests span education and related social-cognitive outcomes; human–technology interactions, particularly within modern digital environments and culture; and knowledge and information systems, including the influence of literary works.\nI employ a combination of experimental design and computational methods to uncover the stories behind data and convey insights in a compelling narrative. My work emphasizes careful methodological choice—selecting the right test, model, or tool for the question at hand rather than applying techniques by rote.\nBroadly, my projects often involve:\n\nModel Selection & Statistical/Causal Inference: Careful attention to data structure and assumptions when selecting models—for example, employing fixed or mixed effects for panel and longitudinal data, applying robust standard errors to address heteroskedasticity, or using interaction terms where theory suggests effect modification. These choices ensure valid inference and appropriate causal interpretation.\n\n\n\n\n\nApplied Methods Across Domains: Frequent use of regression modeling with categorical and quantitative predictors, quasi-experimental methods (e.g., instrumental variables, regression discontinuity), NLP techniques for analyzing unstructured text (e.g., LDA topic modeling), and applied machine learning approaches such as tree-based methods.\n\n\n\n\n\nBias Correction & Robustness: Careful application of weighting, matching, and propensity score techniques to reduce selection bias; use of bootstrapping to obtain reliable distributional inference where analytic solutions are limited; and regularization methods (e.g., Lasso, ridge) in computational models to prevent overfitting and enhance generalizability.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>About</span>"
-    ]
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Education\n\n\nUniversity of California, Berkeley 2024-2025\n\n\nMaster of Computational Social Science — GPA: 3.7\nCoursework: Data, Ethics, and Society; Data Visualization; Advanced Applied Statistics\n\n\n\n\n\nUniversity of British Columbia, Vancouver 2020-2024\n\n\nB.A. in Psychology, Minor in Commerce (with Distinction)\nLeadership: Executive Coordinator of the Psi Chi Honors Society - UBC Chapter\nAwards: Work Learn International Undergraduate Research Award (2022), Trek Excellence Scholarship for Continuing Students (2021), Outstanding International Student Award (2020)\n\n\n\n\n\n\nExperience\n\n\nUC Berkeley Office of the Registrar Berkeley, CA\n\n\nBusiness Systems Analyst Intern January 2025 — May 2025\n\nDeveloped custom utilization metrics to quantify inefficiencies in UC Berkeley’s final exam scheduling across six semesters of data.\nFlagged 36 persistently underused rooms and departments with &gt;30% enrollment mismatches relative to a greedy algorithm benchmark.\nPresented findings with targeted scheduling recommendations that could improve room utilization by 47.6% to administrative leads, influencing policies and resource allocation.\n\n\n\n\n\n\nBrain and Reality Lab (PI: Dr. Alan Kingstone) Vancouver, BC\n\n\nUndergraduate Researcher September 2021 — April 2023\n\nCo-authored peer-reviewed research on how attractiveness and mind perception influence comfort in human–robot interactions, highlighting the role of human-likeness in robots and digital/AI agents.\nLed an independent project investigating how reduced mind perception of self and others predicts feelings of depersonalization/derealization in youth, particularly in digital environments.\nDesigned research methods and experimental stimuli, with specialization in 3D modeling for VR experiments, eye-tracking, and survey design.\nApplied statistical methods, including correlations and t-tests, to analyze survey data and test key hypotheses.\nDirected over 1,000 participants through experiments, overseeing data collection and entry while ensuring strict adherence to experimental controls and research integrity.\n\n\n\n\n\n\nCenter for Applied Moral Psychology (PI: Dr. Azim Shariff) Vancouver, BC\n\n\nResearch Assistant September 2021 — December 2021\n\nDirected discussion groups of participants, maintaining confidentiality and ethical standards for conversations on sensitive topics.\nManaged data entry and coding of responses to result in clean, processed data ready for analysis.\n\n\n\n\n\n\n\nPublications\n\n\nPazhoohi, F., Gojamgunde, S., & Kingstone, A. (2023). Give me space: Sex, attractiveness, and mind perception as potential contributors to different comfort distances for humans and robots. Journal of Environmental Psychology, 90, 102088. https://doi.org/10.1016/j.jenvp.2023.102088\n\n\n\n\n\n\nService\n\n\nBOLT Safety Society Vancouver, BC\n\n\nVolunteer October 2022 — December 2023\n\nAssisted in coordinating and served as official videographer at the Safe Hubs program launch at MP Bonita Zarrillo’s office, establishing a new community-based safe space for survivors of domestic violence.\nDedicated 20+ hours to outreach through information booths, raising awareness of BOLT’s Safe Hubs network and digital resources for survivors of abuse.\n\n\n\n\n\n\nAlpha Gamma Delta Foundation: Fighting Hunger Delta Zeta Chapter, UBC\n\n\nMember September 2022 — December 2023\n\nOrganized and participated in fundraising events, including the annual “Alpha Gam Slam” volleyball tournament and the chapter’s Day of Giving, raising funds to combat food insecurity through the Alpha Gamma Delta Foundation.\nVolunteered at food donation booths, collecting non-perishable items for the Greater Vancouver Food Bank, supporting local efforts to fight hunger.\n\n\n\n\n\n\nEuphoria Psychology Fest Navi Mumbai, India\n\n\nCo-Chair/Charge D’Affaires December 2019\n\nCreated a city-wide psychology festival to promote mental health awareness, overseeing event design, programming, and outreach for 100+ attendees from 30+ academic institutions.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Curriculum Vitae</span>"
-    ]
-  },
-  {
     "objectID": "Writing/Longino.html",
     "href": "Writing/Longino.html",
     "title": "Objective Science?",
@@ -337,26 +306,6 @@
     ]
   },
   {
-    "objectID": "tldr.html",
-    "href": "tldr.html",
-    "title": "TL;DR",
-    "section": "",
-    "text": "Too Long; Didn’t Read?",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>TL;DR</span>"
-    ]
-  },
-  {
-    "objectID": "tldr.html#too-long-didnt-read",
-    "href": "tldr.html#too-long-didnt-read",
-    "title": "TL;DR",
-    "section": "",
-    "text": "Going forward I will be adding a TL;DR section to all my academic writing and research papers. Think of it as a shorter, more colloquial counterpart to the research abstract. My goal is to make my work more accessible at a glance (believe me, my own attention span is not immune to the damage caused by overconsumption of short-form video content). That said, I strongly encourage you to at least skim, if not fully read, the complete piece:\n\nSummaries are just that— summaries! If everything could be captured in a single paragraph, I wouldn’t spend 3,000+ words unpacking arguments, evidence, and nuance.\nContext matters. Everything I write is through the lens of my own experiences, not untouched by biases, and a polished summary cannot fully reflect that. Reading the work in full empowers YOU to critique and question me (which you absolutely should!), and engage with the topic more deeply.\n\n— September 04, 2025.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>TL;DR</span>"
-    ]
-  },
-  {
     "objectID": "Writing/Longino.html#feminist-standpoint-theory",
     "href": "Writing/Longino.html#feminist-standpoint-theory",
     "title": "Objective Science?",
@@ -387,6 +336,46 @@
     "crumbs": [
       "Writing",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Objective Science?</span>"
+    ]
+  },
+  {
+    "objectID": "tldr.html",
+    "href": "tldr.html",
+    "title": "TL;DR",
+    "section": "",
+    "text": "Too Long; Didn’t Read?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>TL;DR</span>"
+    ]
+  },
+  {
+    "objectID": "tldr.html#too-long-didnt-read",
+    "href": "tldr.html#too-long-didnt-read",
+    "title": "TL;DR",
+    "section": "",
+    "text": "Going forward I will be adding a TL;DR section to all my academic writing and research papers. Think of it as a shorter, more colloquial counterpart to the research abstract. My goal is to make my work more accessible at a glance (believe me, my own attention span is not immune to the damage caused by overconsumption of short-form video content). That said, I strongly encourage you to at least skim, if not fully read, the complete piece:\n\nSummaries are just that— summaries! If everything could be captured in a single paragraph, I wouldn’t spend 3,000+ words unpacking arguments, evidence, and nuance.\nContext matters. Everything I write is through the lens of my own experiences, not untouched by biases, and a polished summary cannot fully reflect that. Reading the work in full empowers YOU to critique and question me (which you absolutely should!), and engage with the topic more deeply.\n\n— September 04, 2025.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>TL;DR</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Srishti Dipak Gojamgunde. I am, above all, a perpetual learner. My passion lies at the intersection of data, human behavior, and storytelling—exploring questions like: How do media and technology shape our beliefs, behaviors, and mental states? And how do these individual experiences, in turn, shape the norms, policies, and technologies that define our societies?, How can rigorous methodological approaches drive scientific progress and innovation?, And most importantly, how do we determine what is truly good for society?\nMy research interests span education and related social-cognitive outcomes; human–technology interactions, particularly within modern digital environments and culture; and knowledge and information systems, including the influence of literary works.\nI employ a combination of experimental design and computational methods to uncover the stories behind data and convey insights in a compelling narrative. My work emphasizes careful methodological choice—selecting the right test, model, or tool for the question at hand rather than applying techniques by rote.\nBroadly, my projects often involve:\n\nModel Selection & Statistical/Causal Inference: Careful attention to data structure and assumptions when selecting models—for example, employing fixed or mixed effects for panel and longitudinal data, applying robust standard errors to address heteroskedasticity, or using interaction terms where theory suggests effect modification. These choices ensure valid inference and appropriate causal interpretation.\n\n\n\n\n\nApplied Methods Across Domains: Frequent use of regression modeling with categorical and quantitative predictors, quasi-experimental methods (e.g., instrumental variables, regression discontinuity), NLP techniques for analyzing unstructured text (e.g., LDA topic modeling), and applied machine learning approaches such as tree-based methods.\n\n\n\n\n\nBias Correction & Robustness: Careful application of weighting, matching, and propensity score techniques to reduce selection bias; use of bootstrapping to obtain reliable distributional inference where analytic solutions are limited; and regularization methods (e.g., Lasso, ridge) in computational models to prevent overfitting and enhance generalizability.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education\n\n\nUniversity of California, Berkeley 2024-2025\n\n\nMaster of Computational Social Science — GPA: 3.7\nCoursework: Data, Ethics, and Society; Data Visualization; Advanced Applied Statistics\n\n\n\n\n\nUniversity of British Columbia, Vancouver 2020-2024\n\n\nB.A. in Psychology, Minor in Commerce (with Distinction)\nLeadership: Executive Coordinator of the Psi Chi Honors Society - UBC Chapter\nAwards: Work Learn International Undergraduate Research Award (2022), Trek Excellence Scholarship for Continuing Students (2021), Outstanding International Student Award (2020)\n\n\n\n\n\n\nExperience\n\n\nUC Berkeley Office of the Registrar Berkeley, CA\n\n\nBusiness Systems Analyst Intern January 2025 — May 2025\n\nDeveloped custom utilization metrics to quantify inefficiencies in UC Berkeley’s final exam scheduling across six semesters of data.\nFlagged 36 persistently underused rooms and departments with &gt;30% enrollment mismatches relative to a greedy algorithm benchmark.\nPresented findings with targeted scheduling recommendations that could improve room utilization by 47.6% to administrative leads, influencing policies and resource allocation.\n\n\n\n\n\n\nBrain and Reality Lab (PI: Dr. Alan Kingstone) Vancouver, BC\n\n\nUndergraduate Researcher September 2021 — April 2023\n\nCo-authored peer-reviewed research on how attractiveness and mind perception influence comfort in human–robot interactions, highlighting the role of human-likeness in robots and digital/AI agents.\nLed an independent project investigating how reduced mind perception of self and others predicts feelings of depersonalization/derealization in youth, particularly in digital environments.\nDesigned research methods and experimental stimuli, with specialization in 3D modeling for VR experiments, eye-tracking, and survey design.\nApplied statistical methods, including correlations and t-tests, to analyze survey data and test key hypotheses.\nDirected over 1,000 participants through experiments, overseeing data collection and entry while ensuring strict adherence to experimental controls and research integrity.\n\n\n\n\n\n\nCenter for Applied Moral Psychology (PI: Dr. Azim Shariff) Vancouver, BC\n\n\nResearch Assistant September 2021 — December 2021\n\nDirected discussion groups of participants, maintaining confidentiality and ethical standards for conversations on sensitive topics.\nManaged data entry and coding of responses to result in clean, processed data ready for analysis.\n\n\n\n\n\n\n\nPublications\n\n\nPazhoohi, F., Gojamgunde, S., & Kingstone, A. (2023). Give me space: Sex, attractiveness, and mind perception as potential contributors to different comfort distances for humans and robots. Journal of Environmental Psychology, 90, 102088. https://doi.org/10.1016/j.jenvp.2023.102088\n\n\n\n\n\n\nService\n\n\nBOLT Safety Society Vancouver, BC\n\n\nVolunteer October 2022 — December 2023\n\nAssisted in coordinating and served as official videographer at the Safe Hubs program launch at MP Bonita Zarrillo’s office, establishing a new community-based safe space for survivors of domestic violence.\nDedicated 20+ hours to outreach through information booths, raising awareness of BOLT’s Safe Hubs network and digital resources for survivors of abuse.\n\n\n\n\n\n\nAlpha Gamma Delta Foundation: Fighting Hunger Delta Zeta Chapter, UBC\n\n\nMember September 2022 — December 2023\n\nOrganized and participated in fundraising events, including the annual “Alpha Gam Slam” volleyball tournament and the chapter’s Day of Giving, raising funds to combat food insecurity through the Alpha Gamma Delta Foundation.\nVolunteered at food donation booths, collecting non-perishable items for the Greater Vancouver Food Bank, supporting local efforts to fight hunger.\n\n\n\n\n\n\nEuphoria Psychology Fest Navi Mumbai, India\n\n\nCo-Chair/Charge D’Affaires December 2019\n\nCreated a city-wide psychology festival to promote mental health awareness, overseeing event design, programming, and outreach for 100+ attendees from 30+ academic institutions.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Curriculum Vitae</span>"
     ]
   }
 ]
