@@ -13,7 +13,8 @@ book:
         - Research/Nostalgia.qmd
     - part: "Writing"
       chapters: 
-        - Writing/Prose.qmd
+        - Writing/Longino.qmd
+    - tldr.qmd
     - about.qmd
     - cv.qmd
 

@@ -1,0 +1,128 @@
+---
+title: "Objective Science?"
+format: html
+---
+### *Helen E. Longino’s Contextual Empiricism on the Importance of Values for Objectivity in Science*
+
+*Originally submitted as the term paper for PHIL 369A “Philosophy of Science” at UBC, Vancouver on December 12, 2022.*
+
+***
+
+[TL;DR](/tldr.qmd) Science claims “objectivity” by keeping social, political, cultural values out—but they always sneak back in. For example, funding decisions—often political or shaped by individual bias (e.g. favoring in-groups)—directly shape which scientific questions even get asked. 
+
+Helen E. Longino flips this: objectivity comes from diverse voices + open criticism, not from pretending to be value-free.
+
+This paper unpacks her framework, shows where it works, where it stumbles, and how other feminist theories might do better.
+
+## Introduction
+
+Scientific practice and knowledge have long faced their fair share of critiques, for example, the historical exclusion of women and other minority groups (Bleier, 1988), and challenges to the usefulness of its methodological rules for advancing knowledge (see Paul Feyerabend’s epistemological anarchism as discussed by Preston, 2020). As long as producing objective, empirical knowledge is a goal of science (keeping in mind the objectivity of the methodologies themselves), the question of  whether and what role values play in it remains salient. Helen E. Longino’s contextual empiricism, among other feminist epistemologies, stands out as a prominent stance on this debate as she propounds that values are essential to objectivity in the sciences, ensured by a diversity of perspectives and ‘transformative criticism’ (Longino, 1990). 
+
+In this paper, I will lay out Longino’s account of objectivity in science by first, discussing various conceptions of objectivity and their shortcomings. Then, I will lay out Longino’s idea of science as a social practice being carried out by social groups, not individuals, and her emphasis on critical and transformative discourse given a base equity of intellectual authority. I will summarize her four suggested criteria for ensuring the nature of such social, transformative discourse in science, offering my perspective on how they fall short pragmatically. I will evaluate Longino’s account by considering a contemporary instance of value-laden decision-making in science, and find that while it has some strengths, it falls short in other areas. Finally, I will conclude by discussing an alternative (feminist) epistemology which might make up for some of Longino’s limitations and promote her idea of ‘securing’ objectivity in science. 
+
+## Longino's Account
+
+### What is Objectivity? 
+
+'*Objectivity*' in science has historically been thought to be contingent upon it being ‘value-free’ (Crasnow, 2013). Usually, this value-free ideal still accepted the role of epistemic (or cognitive) values to maintain internal consistency, for example, the values discussed by Kuhn in ‘*Objectivity, Value Judgement, and Theory Choice*’ (see Curd & Cover, 1998). However, non-epistemic values such as the social, cultural, and political (which Longino refers to, and shall henceforth be referred to, as contextual values) were considered an impediment to objectivity. Thus, there is a need to clarify what is meant by ‘value-free.’ 
+
+Hugh Lacey (1999, as cited in Crasnow, 2013) distinguishes three conceptions of ‘value-free’ science:
+
+1. **Autonomous**: independent of any particular set of contextual values especially independent from “financial control of a social, cultural, or political agenda.”
+2. **Neutral**: “doesn’t presuppose values or have specific value implications”
+3. **Impartial**: “judgements about merits are based on cognitive values only” (Crasnow, 2013, p. 414). 
+
+The definition of objectivity must also be clarified; generally, beliefs that are based on ‘facts’ and judged by impartial, non-arbitrary criteria are defined as objective. Longino (1990) differentiates between two kinds of objectivity in science, first, objectivity as an accurate description of facts and, second, as in a non-arbitrary and non-subjective criteria and mode of inquiry. In other words, the first kind is objectivity of facts/knowledge and the second is objectivity of method, usually, the latter guaranteeing the prior. This leads us to consider the accounts of logical positivists versus the wholists. The logical positivists’ notion of objectivity was one of facts/knowledge as they differentiated between a context of discovery which accounted for all the subjectivity and individuality that there may exist, and a context of justification wherein all those subjective elements are purged. Alternatively, the wholist view allows for objectivity of method as long as scientists share some standards such as those outlined by Kuhn (e.g. relative simplicity, relative problem-solving etc.; Curd & Cover, 1998). Longino asserts that neither of these are sufficient or applicable in the era of big science. '*Big science*', here, is characterized by interactions between models, inter-subjective interactions, complex experiments carried out by different individuals, modification and integration of theories, emphasis on prevailing and well-funded topics, etc. (Longino, 1990). Her notion of ‘objectivity' in science, which will be discussed later in this paper, aims to capture this social aspect of scientific practice and knowledge generation.  
+
+Another reason to question both the logical positivist as well as wholist accounts is because many feminist scholars identify the pervasive albeit covert influence that prevailing contextual values have had on supposedly ‘value-free’ and objective science (Crasnow, 2013). Longino (1993) theorizes that this may be because background assumptions are often invisible to the members of that scientific community (or in-group) and because contextual values prerequisite for membership may become enshrined in otherwise empirically adequate scientific pursuits.
+
+One frequently discussed example of such value-laden science comes from Darwin’s Theory of Evolution. Okruhlik (2013) notes how the prevailing contextual values in Victorian society led Darwin to credit male activity almost exclusively for all human evolutionary development; he attributed the testing and selection of ‘higher mental faculties’ like reason, invention, and imagination to the fact that men had to employ these traits as hunters and protectors of their families. This interpretation of anthropological evidence is indicative of androcentric bias, and hence, is not value-free. Okruhlik 2013, also discusses the gynocentric perspective- which looks at evidence to indicate how women’s greater nutritional stress led them to contribute a greater proportion of tool-invention- showcasing how values seep in to inform theories regardless of which one is ‘truthful’. In this example, neither ‘autonomy’ nor ‘neutrality’ of science are upheld, though there could be some argument made for its ‘impartiality’ when considering its value-free status. However, Darwin’s theory being the predominant one (with gynocentric evidence and perspectives disregarded in mainstream academia and in general society) might indicate that even impartiality of value-judgement is not achieved. 
+
+In any case, contextual values have historically had an inadvertent impact on theory choice and evidence allocation which leads us to reevaluate the extent to which the distinction between such contextual values and other, more accepted cognitive values really matters. 
+
+### Cognitive vs. Contextual Values
+
+In ‘*Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy*’, Longino (1997) considers various theoretical values: classified to be either traditional, cognitive values or feminist, non-cognitive values. The latter, she discerns, aren’t uniquely or intrinsically feminist but rather that theories exemplifying such values are more likely to satisfy feminist cognitive aims, or any marginalized mind that has not been acculturated to the traditional values. Here, using ‘traditional’ and ‘feminist’ values becomes more appropriate as Longino essentially blurs the distinction between cognitive and non-cognitive values. She weighs those cognitive values discussed by Kuhn against some feminist values, for example, External Consistency/Conservatism versus Novelty. These values exist on opposite ends of the same value/virtue spectrum, ‘Conservatism’ advocating for consistency with currently accepted scientific knowledge (i.e. satisfaction with the status quo), and ‘Novelty’ departing from the currently accepted scientific knowledge via new evidence and insights. Similarly, Longino considers Simplicity vs Ontological Heterogeneity, and Fruitfulness vs the Feminist Pragmatic Virtues (Longino, 1997).
+
+This endeavor brings two important points to light. First, that the traditional ‘cognitive values’ aren’t strictly cognitive and do import some socio-political values into contexts of scientific judgment.  Secondly, the specific values given priority will differ in different disciples and social contexts. Longino (1997) is cognizant that this contextualist view may come across as anarchist, however, she holds that it is a pluralist view since relative priority of values must be subject to modification due to interaction with other scientific communities and the world at large. All of these theoretical values then would be “components of a community set of public standards” (Longino, 1997, p. 49).
+
+### Longino’s Contextualism and Criteria for Transformative Community Discourse
+
+Longino’s idea of relative priority of values varying across time and cultures also translates to detaching knowledge from the idea of an absolute, unitary truth. She suggests that the aims of inquiry be “satisfied by embracing multiple and, in some cases, incompatible theories that satisfy local standards.” (Longino, 1993, p. 114). However, her view is not entirely relativist as she urges an equality of intellectual authority and not equal acceptance of any and all views. This is one of her four criteria for a scientific community that can ensure the ‘transformative’ dimension of critical discourse given that her notion of objectivity relies on the social nature of inquiry. These four criteria are elaborated as follows:
+
+1. **Recognized Avenues for Criticism**: There should be publicly recognized, widely available platforms for criticism of research; background assumptions, methods, evidence etc. Additionally, Longino believes that effective criticism should be just as highly valued as original research to increase the effectiveness of peer review.
+2. **Shared Standards**: As discussed above, Longino’s acknowledgement that different communities subscribe to different relative priorities of different subsets of values, does not mean it is true relativism or anarchism. There must be responsibility to something other than oneself in the form of some shared standards like inter-subjective communication, responsiveness to criticism etc. Standards themselves may not be static but criticized and transformed as well. 
+3. **Community Response**: Continuing the previous feature, responsiveness is measured by public phenomena such as grants/awards for specific research topics, textbooks, consensus etc.
+4. **Equality of Intellectual Authority**:  Social consensus can only be an accurate measure of community uptake of criticism when there is an accurate representation of minority voices, marginalized voices, voices that do not conform to mainstream values etc. Longino claims that a greater number of perspectives is directly proportional to objectivity in science (Longino 1990, 1993, 1997). 
+
+Thus, Longino’s account of objectivity, as I have emphasized recurrently, is explicitly pro-value and with respect to science as an ongoing practice/ methodology. It is one that welcomes and encourages a plurality of ideas, evidence, criticism, counter-evidence, integration and modification, and transformation through social discourse. 
+
+## Analysis
+
+Longino’s criticism of both logical positivist as well as wholist perspectives is validated because she takes into consideration the behind-the-scenes, social aspects of knowledge production in the era of ‘big science’ which has just as many implications for quality of knowledge produced.  Buckley (2022) provides insight into the immense power research funders have in academia often with strong commercial and political overtones. They also highlight equity issues within academia and how it is likely that a small proportion of privileged academics dictate the direction of knowledge-production. Placing Longino’s argument in a contemporary setting evidences how it is nearly impossible to ensure that scientific practice remains autonomous, neutral or impartial. If values are to have an unavoidable role in science, it seems that for the sake of objectivity maximizing the number of perspectives and criticism, as Longino suggests, might be the only viable option. 
+
+However, encouraging pluralism comes with additional dilemmas, such as whether some perspectives should be excluded from consideration, for example, fascist or terrorist perspectives. Let us weigh the less extreme example of research initiatives in search of a cure for type-1 diabetes. In 2019, Sanofi, one of the leading producers of insulin—which is the primary medication currently used to treat type-1 diabetes—stopped their efforts to find a cure for diabetes in order to allocate more resources “to areas of opportunity” in the hope of “bolstering growth and profit” (Blamont, 2019). This move being not due to a lack of innovation or evidence but rather to keep up their profits through insulin sales is further supported by a 2021 statistic that shows one of their top pharmaceutical products being ‘Lantus’ insulin, bringing in 3.565 million euros for the company (Mikulic, 2022). This is clearly an impediment to scientific progress and growth due to prioritization of contextual values like commercial profit and thus, points to a need for some shared standards as Longino suggests. Specifically, her discussion of the feminist value ‘Applicability to Current Human Needs’ stands out in importance in this specific example (Longino, 1997). This being a case of cessation of scientific pursuit, doesn’t completely resolve the question of whether some perspectives must be eliminated as that would entail making judgements about merits of the knowledge so produced and forgoing ‘impartiality.’ While Longino’s view doesn’t claim to be impartial it is still an important characteristic to consider especially since she advocates for pluralism and inclusion of marginal voices. This problem may not exist in some other feminist epistemologies such as Feminist Standpoint Theory which shall be discussed further. 
+
+Pluralism, otherwise, appears to be a suitable equalizer presupposing some shared standards and equality of intellectual authority to community interaction, criticism, and response. But a major shortcoming is the fact that the notion of shared standards is loosely defined as Longino wants even those to be open to criticism and transformation. Without any constant, shared norms, it becomes incredibly difficult to characterize scientific knowledge even within the same contexts as minute differences of background assumptions/values may exist within communities.
+
+Furthermore, inclusion of subjective perspectives, even though there is a diversity of them and they might be evaluated, still does not necessarily guarantee objectivity. It is like presupposing that contrasting background assumptions and values cancel each other out to give rise to objectivity, when in reality it might just be contributing to difficulties arriving at social consensus and indecisiveness of merit-judgment (exacerbated by loosely-defined shared standards). 
+
+Finally, application of Longino’s criteria isn’t very practical. As Milliken (2017) notes, there appear to be some problems with each of the proposed criteria:
+
+1. While avenues for criticism are crucial to scientific practice, putting it on the same level as original research might prompt pedantic criticisms and rejection of perspectives due to a large enough consensus on criticism against them. Thus, this criteria may actually serve as a gatekeeping function and reduce the incorporation of a diversity of perspectives in science. 
+2. Apart from the ambiguity of ‘shared standards’, the same problems that we face when considering values arise. For instance, if two theories equally satisfy these shared standards and local values, how is a decision regarding theory-choice to be made? Also, just as individual subjectivity might influence evaluation of theories regarding specific values (Kuhn as cited in Curd & Cover, 1998), shared standards might be approached differently by different individuals and groups. Taking the same value of ‘Applicability to Current Human Needs’ discussed above, individual interpretations may come to different conclusions about current human needs. In the example of Sanofi, specifically, why should greater relative priority to contextual values such as commercial growth (especially in a capitalist-industrialized society) not be considered a current human need dictating whether or not to continiue certain research within their own institution. It could be argued, then, that neither cognitive (traditionally) or non-cognitive, contextual values are of relevance but rather that moral values must also be considered. It is an entirely different discussion what role moral virtues play in science and must be explored elsewhere. 
+3. While responsiveness to criticism is an important criterion in theory, its application to ensure objective science can be hard to ensure. For instance, discerning which criticism is valid and overcoming the lag between publication of research to responses and new evidence may prove to be barriers to effective transformative discourse. 
+4. Equality of Intellectual Authority is another criterion whose applicability rather than principle is concerning; the dominance of intellectual authority on a systemic level as discussed above makes it hard to ensure that a plurality of views is considered. It might be increasingly hard for minority and marginalized voices to be heard given research funding and invisible, enshrined standards (from 1). 
+
+Thus, Longino’s account is strong in theory, and its explanatory power, but it may not be as effective prescriptively. 
+
+## Feminist Standpoint Theory
+
+The Sanofi example regarding companies’ prioritization of one contextual value (commercial growth and profit) over another (applicability to current human needs) arguably evidences the need for some agreement about shared standards. Since many philosophers, and academics in general, have already explicated, contextual values are nearly impossible to purge completely from science. Would then, actually embracing the value-laden nature of science, and openly prioritizing some values/standards be the correct approach?
+
+Feminist Standpoint Theory does precisely that, saying that marginalized voices are actually better situated to identify and question things taken for granted by those with ‘epistemic privilege.’ While I am not necessarily advocating for Feminist Standpoint Theory as a better alternative to Longino’s Contextual Empiricism, Standpoint takes the latter’s proposal for diversity and inclusion of minority perspectives a step further by advocating that some (feminist/minority) values be extolled because they are good values (Crasnow, 2013). One, for instance, might be the applicability to current human needs. Instead of focusing on proving how objectivity can be ensured despite accepting contextual values and pluralism, Longino could perhaps make the case for roles that specific values might play in science. This is especially since Longino herself states that objectivity itself is a virtue that exists on a spectrum: objectivity by degrees, yet spends her efforts to ‘secure’ objectivity within her framework (Longino, 1990).
+
+## Conclusion
+
+The current conversation, being one about objectivity, does necessitate that we still consider Longino’s ‘objectivity’ a valid contender to other accounts of the same. She makes a compelling case for the necessity for a contextualist perspective given the nature of science, especially contemporarily, as highly context-dependent. Alongside other feminist philosophers, she makes it evident how science that claimed to be ‘value-free’ was still deeply value-laden and that a diversity of perspectives might be the only way to keep those otherwise-invisible background assumptions in check. However, Longino’s prescriptive criteria for facilitating such critical and transformative discourse in the scientific community is hard to apply and comes with similar potential pitfalls as traditional science: lack of clearly-defined, stable shared standards, and consequently, exclusion of minority/marginalized perspectives due to a lack of accountability. It is also not clear how pluralism ensures objectivity since it assumes that values cancel each other out, almost in a false-neutrality fashion. Finally, I discussed feminist standpoint theory as an alternative perspective that still values diversity, as in Longino’s ‘objectivity’, with a stricter idea of prescribed, good values. This might shift the focus away from objectivity and rather to using contextual values to science’s advantage. In conclusion, Longino’s arguments about acceptance and encouragement of already-existing contextual values in science stand strong to a great extent with some shortcomings of criteria for future direction to maintain objectivity through a plurality of diverse perspectives and criticisms. 
+
+## References
+
+::: {.hanging-indent}
+Blamont, M. (2019, December 9). Sanofi ends research in diabetes, narrows units to spur profit. Reuters. Retrieved December 11, 2022, from <https://www.reuters.com/article/us-sanofi-outlook-idUSKBN1YD2BI>
+
+Bleier, R. (1988). The Cultural Price of Social Exclusion: Gender and Science. *NWSA Journal, 1*(1), 7–19. <http://www.jstor.org/stable/4315861>
+
+Buckley, R. C. (2022). Stakeholder controls and conflicts in research funding and publication. *PLOS ONE, 17*(3). <https://doi.org/10.1371/journal.pone.0264865>
+
+Crasnow, S. (2013). Feminist philosophy of science: Values and objectivity. *Philosophy Compass, 8*(4), 413–423. <https://doi.org/10.1111/phc3.12023>
+
+Curd, M., & Cover, J. A. (1998). Philosophy of science: The central issues (1st ed.). W.W. Norton.
+
+Longino, H. E. (1990). Chapter Four. Values and Objectivity. *Science as Social Knowledge*, 62–82. <https://doi.org/10.1515/9780691209753-005>
+
+Longino, H. E. (1993) “Subjects, Power and Knowledge: Description and Prescription in Feminis Philosophies of Science.” *Feminist Epistemologies*, pp. 101—20. Routledge. <https://doi.org/10.4324/9780203760093>
+
+Longino, H. E. (1997) “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” *Feminism, Science, and the Philosophy of Science*, pp. 39—58. Springer Netherlands. <https://doi.org/10.1007/978-94-009-1742-2>
+
+Mikulic, M. (2022, July 27). Sanofi Top Pharma Products by revenue 2017-2021. Statista. Retrieved December 11, 2022, from <https://www.statista.com/statistics/266506/sanofi-top-pharmaceutical-products/>
+
+Milliken A. (2017). Subjective from the start: A critique of transformative criticism. *Nursing philosophy : an international journal for healthcare professionals, 18*(2), 10.1111/nup.12156. <https://doi.org/10.1111/nup.12156>
+
+Okruhlik, K. (2013) Gender and the biological sciences. In M. Curd, J. A. Cover & C. Pincock (Eds.). Philosophy of science; the central issues (2nd ed.). (pp. 165–180). New York, NY: W. W. Norton. (Original work published 1994)
+
+Preston, J. (2020, August 24). Paul Feyerabend. Stanford Encyclopedia of Philosophy. Retrieved December 10, 2022, from <https://plato.stanford.edu/entries/feyerabend/#AgaiMeth1970>
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+

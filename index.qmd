@@ -15,7 +15,7 @@ Creation transforms paralysis into movement. To create is to choose curiosity ov
 Check out some of my recent work:
 
 -   **Latest in Research:** [Altered Minds in Digital Spaces](Research/Altered-Minds-in-Digital-Spaces.qmd)
--   **Latest in Writing:** [A Prose Poem](Writing/Prose.qmd)
+-   **Latest in Writing:** [Objective Science?](Writing/Longino.qmd)
 
 Note: All writing is my own and not assisted by LLMs or AI.
 

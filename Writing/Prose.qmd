@@ -1,8 +1,0 @@
----
-title: "A Prose Poem"
-format: html
----
-
-***
-
-# *Work in Progress*

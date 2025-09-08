@@ -77,7 +77,29 @@ read_acs_tables <- function(path = ".") {
 #Run once to load them
 read_acs_tables(".")
 
+#Exploratory Data Anlysis (EDA)
+# Plot the enrollment trend
+enrollment_summary <- enrollment_data %>%
+  group_by(ACADEMIC_YEAR, SCHOOL) %>%
+  summarise(total_enrollment = sum(ENR_TOTAL), .groups = "drop")
 
+overall_enrollment <- enrollment_summary %>%
+  group_by(ACADEMIC_YEAR) %>%
+  summarise(total_enrollment = sum(total_enrollment), .groups = "drop") %>%
+  mutate(SCHOOL = "Total")
+
+plot_data <- bind_rows(enrollment_summary, overall_enrollment)
+
+ggplot(plot_data, aes(x = as.factor(ACADEMIC_YEAR), y = total_enrollment, group = SCHOOL, color = SCHOOL)) +
+  geom_line(size = 1) +  
+  geom_point(size = 2) +
+  geom_line(data = overall_enrollment, aes(x = as.factor(ACADEMIC_YEAR), y = total_enrollment, group = 1), 
+            color = "red", size = 1.5) +  # Overlay total enrollment in red
+  ggtitle("Enrollment Trend in Ravenswood City Elementary") +
+  xlab("Academic Year") + 
+  ylab("Total Enrollment") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 
 ```
 
